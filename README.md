@@ -1,4 +1,7 @@
-### installation
+# kotlin-playground
+
+
+Installation
 
 OSX:
 
@@ -12,3 +15,9 @@ Compile:
 kotlinc hello.kt -include-runtime -d hello.jar
 ```
 
+Resource:
+
+https://kotlinlang.org/docs/tutorials/
+
+https://blog.baens.net/posts/step-by-step-kotlin/
+https://blog.baens.net/posts/step-by-step-kotlin-jaxrs-hello-world/
